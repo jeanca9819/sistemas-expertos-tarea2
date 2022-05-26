@@ -1,6 +1,5 @@
 <?php 
 
-    //Esta es la prueba de rebase
     //Insertar código de otros archivos para hacer uso de ellos.  
     require_once "public/configuration/configuration.php";
     require_once "core/route.php";
